@@ -1,2 +1,4 @@
-# Twisting-Quantum-Field-Theories-Nilp-Variety-in-Orthosymplectic-Super-Lie-Algebra
-This project revolves around a mathematical ap\proach to a physics topic of describing transformations in 3D space. 
+# Twisting Quantum Field Theories: Nilp Variety in Orthosymplectic-Super-Lie-Algebra
+<p align="center">
+  <img src='SURF_Poster.jpg' width='2000'>
+</p>
